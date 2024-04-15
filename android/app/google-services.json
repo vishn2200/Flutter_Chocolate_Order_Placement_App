@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019437904153",
+    "project_id": "orderapp-7090e",
+    "storage_bucket": "orderapp-7090e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019437904153:android:7fbdbf047b33212b391588",
+        "android_client_info": {
+          "package_name": "com.example.chocolates_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUz0zCKFIj0H9rsceg_L55HMbRnG2Q8U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
